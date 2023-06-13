@@ -1,0 +1,2 @@
+# bella-test-rps 에서 antoher-test-rps+new-file.txt 생성
+# 토픽브랜치인 another-test-rps에 저장할 예정(main branch x)
